@@ -1,0 +1,3 @@
+edad = 24
+for edad is range(edad,1)
+print(" ",edad)
